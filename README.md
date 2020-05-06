@@ -6,3 +6,6 @@ I created four models with increasing complexity, in order to develop my knowled
 ![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/bikeFInal.png)
 ![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/buggyFinal.png)
 ![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/shipFinal.png)
+![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/shipMain.png)
+![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/closeupship.png)
+![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/shipUnder.png)
