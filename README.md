@@ -5,6 +5,8 @@ I created four models with increasing complexity, in order to develop my knowled
 
 ![gravesketchbasics](https://img.youtube.com/vi/5vBUOB0oDOw/0.jpg))(https://www.youtube.com/watch?v=5vBUOB0oDOw)
 [![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5vBUOB0oDOw/0.jpg)](https://www.youtube.com/watch?v=5vBUOB0oDOw)
 ![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/bikeFInal.png)
 ![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/buggyFinal.png)
 ![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/shipFinal.png)
