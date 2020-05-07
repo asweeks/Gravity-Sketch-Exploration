@@ -1,5 +1,11 @@
 # Gravity-Sketch-Exploration
-
+![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/presPics.png)
+![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/presPics2.png)
+![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/presPics3.png)
+![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/presPics4.png)
+![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/presPics5.png)
+![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/presPics6.png)
+![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/presPics7.png)
 The focus of this project was to learn the baisics of the Virtual Reality modeling program GravitySketch
 I created four models with increasing complexity, in order to develop my knowledge of the programs features and uses.
 
