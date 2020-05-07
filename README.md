@@ -1,7 +1,7 @@
 # Gravity-Sketch-Exploration
 ![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/presPics.png)
 ![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/presPics2.png)
-![Basic Features Video](https://youtu.be/5vBUOB0oDOw)
+https://youtu.be/5vBUOB0oDOw
 ![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/presPics3.png)
 ![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/presPics4.png)
 ![bike](https://github.com/asweeks/Gravity-Sketch-Exploration/blob/master/presPics5.png)
